@@ -31,8 +31,6 @@ Forecasting has been used to predict elections, climate change, and the spread o
 
 Three hours of lecture per week. 
 
-Alternative method of final assessment.
-
 ## Prerequisites
 
 Stat 134, Data/Stat C140, EECS 126, Math 106, IND ENG 172, or equivalent; and familiarity with Python; or consent of instructor. Strongly Recommended: Compsci 61A, Data/Compsci C88C, or equivalent.
