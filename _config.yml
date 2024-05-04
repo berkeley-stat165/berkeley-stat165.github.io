@@ -15,7 +15,7 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 165: Forecasting"
 tagline: Course Overview
-description: Forecasting has been used to predict elections, climate change, and the spread of COVID-19. Poor forecasts led to the 2008 financial crisis. In our daily lives, good forecasting ability can help us plan our work, be on time to events, and make informed career decisions. This practically-oriented class will provide students with tools to make good forecasts, including Fermi estimates, calibration training, base rates, scope sensitivity, and power laws. This course uses Python as its primary computing language; details are determined by the instructor.
+description: "Forecasting has been used to predict elections, climate change, and the spread of COVID-19. Poor forecasts led to the 2008 financial crisis. In our daily lives, good forecasting ability can help us plan our work, be on time to events, and make informed career decisions. This practically-oriented class will provide students with tools to make good forecasts, including Fermi estimates, calibration training, base rates, scope sensitivity, and power laws. This course uses Python as its primary computing language; details are determined by the instructor."
 author: SCF
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat165.berkeley.edu'
