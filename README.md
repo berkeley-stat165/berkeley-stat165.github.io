@@ -27,6 +27,12 @@ UC Berkeley
 
 Forecasting has been used to predict elections, climate change, and the spread of COVID-19. Poor forecasts led to the 2008 financial crisis. In our daily lives, good forecasting ability can help us plan our work, be on time to events, and make informed career decisions. This practically-oriented class will provide students with tools to make good forecasts, including Fermi estimates, calibration training, base rates, scope sensitivity, and power laws. This course uses Python as its primary computing language; details are determined by the instructor.
 
+## Logistics
+
+Three hours of lecture per week. 
+
+Alternative method of final assessment.
+
 ## Prerequisites
 
 Stat 134, Data/Stat C140, EECS 126, Math 106, IND ENG 172, or equivalent; and familiarity with Python; or consent of instructor. Strongly Recommended: Compsci 61A, Data/Compsci C88C, or equivalent.
